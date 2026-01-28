@@ -1,7 +1,7 @@
 #FirstProgram.py
 #Name: Gustavo Vargas
 #Date: 01/28/2026
-#Assignment: Lab 1
+#Assignment: Lab 1 first program
 
 def main():
   print("First Program")
